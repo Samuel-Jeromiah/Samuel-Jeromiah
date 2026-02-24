@@ -124,9 +124,11 @@ I specialize in building **production-ready ML systems** — from data pipelines
 
 <div align="center">
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samuel-Jeromiah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Samuel's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Samuel-Jeromiah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Jeromiah&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Samuel-Jeromiah&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Samuel-Jeromiah&theme=tokyonight&hide_border=true)
 
 </div>
 
