@@ -20,7 +20,7 @@ I specialize in building **production-ready ML systems** — from data pipelines
 - 🎓 MS in Artificial Intelligence @ Northeastern University (Dec 2027)
 - 🏆 1st Prize — National Science Day Expo (Smart Blind Navigation Kit)
 - 🔬 3 industry internships across ML engineering, data science, and software development
-- 📍 Portland, Maine
+- 📍 Portland, Maine, United States of America
 
 ---
 
