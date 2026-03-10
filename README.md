@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-I'm a **Data Science & AI practitioner** pursuing my **Master of Science in Artificial Intelligence** at **Northeastern University's Roux Institute** (GPA: 4.0), with a focus on turning raw, messy data into decisions that matter especially in **healthcare analytics** and **financial intelligence**.
+I'm a **Data Science & AI practitioner** pursuing my **Master of Science in Artificial Intelligence** (GPA: 4.0), with a focus on turning raw, messy data into decisions that matter especially in **healthcare analytics** and **financial intelligence**.
 
 My work lives at the intersection of rigorous statistical thinking and production-ready engineering. Whether I'm building end-to-end ML pipelines, wrangling 1.3M+ transaction records for fraud detection, or applying NLP to extract sentiment from patient reviews, I care deeply about *why* a model works not just *that* it works.
 
