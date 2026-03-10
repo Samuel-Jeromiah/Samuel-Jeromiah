@@ -13,11 +13,11 @@
 
 ## 👋 About Me
 
-I'm a **Data Science & AI practitioner** pursuing my **Master of Science in Artificial Intelligence** at **Northeastern University's Roux Institute** (GPA: 4.0), with a focus on turning raw, messy data into decisions that matter — especially in **healthcare analytics** and **financial intelligence**.
+I'm a **Data Science & AI practitioner** pursuing my **Master of Science in Artificial Intelligence** at **Northeastern University's Roux Institute** (GPA: 4.0), with a focus on turning raw, messy data into decisions that matter especially in **healthcare analytics** and **financial intelligence**.
 
 My work lives at the intersection of rigorous statistical thinking and production-ready engineering. Whether I'm building end-to-end ML pipelines, wrangling 1.3M+ transaction records for fraud detection, or applying NLP to extract sentiment from patient reviews, I care deeply about *why* a model works — not just *that* it works.
 
-Currently on **co-op at IDEXX Laboratories** developing patient-matching algorithms, and actively seeking **Summer 2026 Data Science / ML internship** opportunities. I'm a continuous learner who geeks out over model interpretability, class imbalance techniques, and making complex data stories accessible to non-technical stakeholders.
+Currently on **at IDEXX Laboratories through Northeastern Univeristy ** developing patient-matching algorithms, and actively seeking **Summer 2026 Data Science / ML internship** opportunities. I'm a continuous learner who geeks out over model interpretability, class imbalance techniques, and making complex data stories accessible to non-technical stakeholders.
 
 🏆 **1st Prize — National Science Day Expo** | 📍 Portland, Maine
 
