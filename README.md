@@ -17,7 +17,7 @@ I'm a **Data Science & AI practitioner** pursuing my **Master of Science in Arti
 
 My work lives at the intersection of rigorous statistical thinking and production-ready engineering. Whether I'm building end-to-end ML pipelines, wrangling 1.3M+ transaction records for fraud detection, or applying NLP to extract sentiment from patient reviews, I care deeply about *why* a model works not just *that* it works.
 
-Currently on **at IDEXX Laboratories through Northeastern Univeristy ** developing patient-matching algorithms, and actively seeking **Summer 2026 Data Science / Data Science internship** opportunities. I'm a continuous learner who geeks out over model interpretability, class imbalance techniques, and making complex data stories accessible to non-technical stakeholders.
+Currently on **at IDEXX Laboratories through Northeastern Univeristy ** developing patient-matching algorithms, and actively seeking **Summer 2026 Data Science internship** opportunities. I'm a continuous learner who geeks out over model interpretability, class imbalance techniques, and making complex data stories accessible to non-technical stakeholders.
 
 
 📫 Reach me at [jeromiah.s@northeastern.edu](mailto:jeromiah.s@northeastern.edu) or connect on [LinkedIn](https://linkedin.com/in/samuel30).
