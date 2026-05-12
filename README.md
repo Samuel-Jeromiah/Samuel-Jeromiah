@@ -31,28 +31,19 @@ Before Northeastern, I completed my B.Tech in AI & Data Science at Anna Universi
 
 </div>
 
-**Languages** Python · SQL · Java · JavaScript · C
-**ML / Deep Learning** PyTorch · TensorFlow · Scikit-learn · XGBoost · HuggingFace Transformers
-**LLMs / GenAI** LangChain · OpenAI API · Gradio · RAG · Fine-tuning
-**Data** Pandas · NumPy · DuckDB · Splink · MongoDB · MySQL · PostgreSQL
-**APIs & Deployment** FastAPI · Flask · REST · Docker · MLflow · Vercel · AWS
+<br>
+
+| Category | Stack |
+|---|---|
+| **Languages** | Python · SQL · Java · JavaScript · C |
+| **ML / Deep Learning** | PyTorch · TensorFlow · Scikit-learn · XGBoost · HuggingFace Transformers |
+| **LLMs / GenAI** | LangChain · OpenAI API · Gradio · RAG · Fine-tuning |
+| **Data** | Pandas · NumPy · MongoDB · MySQL · PostgreSQL |
+| **APIs & Deployment** | FastAPI · Flask · REST · Docker · MLflow · Vercel · AWS |
 
 ---
 
 ## 🚀 Featured Projects
-
-### 🩺 Clinical NLP for Veterinary Disease Surveillance
-> Multi-label disease classification + named entity recognition on the **SAVSNET PetEVAL** benchmark (ACL 2025).
-
-- Fine-tuned **DistilBERT, BioBERT, and PetBERT** across **18 ICD-11 disease categories** — outperformed TF-IDF + LinearSVC baselines on macro-F1
-- Disease NER using CRF + transformer token classification with **IOB2 tagging**
-- Live **Gradio demo on HuggingFace Spaces** with veterinary abbreviation expansion and per-label confidence scoring
-
-`PyTorch` `HuggingFace` `Transformers` `Gradio` `spaCy`
-
-🔗 [Repo](https://github.com/Samuel-Jeromiah/Clinical-NLP-Veterinary) · 🤗 [Live Demo on HuggingFace](https://huggingface.co/spaces/)
-
----
 
 ### 🫁 ChestAI — Medical Image Classification
 > Multi-label chest X-ray classification across **14 disease categories** on the NIH ChestX-ray14 dataset.
@@ -67,16 +58,18 @@ Before Northeastern, I completed my B.Tech in AI & Data Science at Anna Universi
 
 ---
 
-### 🔗 DataLink — Probabilistic Entity Resolution
-> End-to-end record linkage pipeline + interactive data quality dashboard.
+### 🩺 Clinical NLP for Veterinary Disease Surveillance
+> Multi-label disease classification + named entity recognition on the **SAVSNET PetEVAL** benchmark (ACL 2025).
 
-- **Splink + DuckDB** probabilistic matching, **Scikit-learn ensemble** classifier → **99.95% F1**
-- Resolved **4,963 matched entities** from **126,168 candidate pairs** on FEBRL benchmark
-- Full-stack: **FastAPI** backend + **Next.js** frontend on Vercel/Render with AUC-ROC and data quality dashboards
+- Fine-tuned **DistilBERT, BioBERT, and PetBERT** across **18 ICD-11 disease categories** — outperformed TF-IDF + LinearSVC baselines on macro-F1
+- Disease NER using **CRF + transformer token classification** with IOB2 tagging
+- Live **Gradio demo on HuggingFace Spaces** with veterinary abbreviation expansion and per-label confidence scoring
 
-`Splink` `DuckDB` `Scikit-learn` `FastAPI` `Next.js` `Vercel`
+`PyTorch` `HuggingFace` `Transformers` `Gradio` `spaCy`
 
-🔗 [Repo](https://github.com/Samuel-Jeromiah/DataLink) · 🌐 [Live App](https://samuel-portfolio-livid.vercel.app/)
+🔗 [Repo](https://github.com/Samuel-Jeromiah/Clinical-NLP-Veterinary)
+<!-- Once your HuggingFace Space is live, uncomment the next line and paste the real URL -->
+<!-- · 🤗 [Live Demo on HuggingFace](https://huggingface.co/spaces/your-username/your-space) -->
 
 ---
 
@@ -93,24 +86,12 @@ Before Northeastern, I completed my B.Tech in AI & Data Science at Anna Universi
 
 ---
 
-### 💊 Patient Sentiment Analysis — Healthcare NLP
-> Sentiment + pharmaceutical insight pipeline for patient drug reviews.
-
-- Processed **10,000+ patient reviews** with web scraping and text preprocessing
-- Classified sentiment at **85% accuracy** with automated drug description summarization
-- **Flask + MongoDB** deployment supporting healthcare decision workflows
-
-`Flask` `MongoDB` `NLTK` `Scikit-learn`
-
-🔗 [Repo](https://github.com/Samuel-Jeromiah/Patient-Sentiment-and-Adverse-Effect-Analysis)
-
----
-
 ### 🕶️ Smart Blind Navigation Kit · 🏆 1st Prize, National Science Day Expo
 > Wearable AI assistive device for visually impaired navigation.
 
 - **Arduino Nano + Raspberry Pi + ultrasonic sensors** for real-time obstacle detection
 - Companion **GPS mobile app** for location monitoring and audio route guidance
+- Engineered end-to-end hardware + software pipeline for assistive accessibility
 
 `Arduino` `Raspberry Pi` `Python` `IoT`
 
@@ -120,8 +101,8 @@ Before Northeastern, I completed my B.Tech in AI & Data Science at Anna Universi
 
 ## 🌱 Currently Working On
 
-- 📚 Deepening LangChain + RAG patterns for healthcare document retrieval
-- 🧠 Exploring vision-language models for multi-modal medical imaging
+- 📚 Deepening **LangChain + RAG** patterns for healthcare document retrieval
+- 🧠 Exploring **vision-language models** for multi-modal medical imaging
 - 💼 Open to **2026 Co-op and Internship roles** in ML Engineering, Data Science, and AI Engineering
 
 ---
