@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a Master's student in Artificial Intelligence at Northeastern's Khoury College (4.0 GPA, graduating 2027), focused on building ML systems that actually ship — not just notebooks that train well. My work moves from raw data to a deployed endpoint: PyTorch model → FastAPI inference → live demo.
+I'm a Master's student in Artificial Intelligence at Northeastern's Khoury College (4.0 GPA, graduating 2027), focused on building ML systems that actually ship  not just notebooks that train well. My work moves from raw data to a deployed endpoint: PyTorch model → FastAPI inference → live demo.
 
 Most of my projects sit at the intersection of **healthcare AI** and **financial intelligence**, where the data is messy and the stakes are real. I care about latency, class imbalance, and interpretability about as much as I care about leaderboards.
 
@@ -61,7 +61,7 @@ Before Northeastern, I completed my B.Tech in AI & Data Science at Anna Universi
 ### 🩺 Clinical NLP for Veterinary Disease Surveillance
 > Multi-label disease classification + named entity recognition on the **SAVSNET PetEVAL** benchmark (ACL 2025).
 
-- Fine-tuned **DistilBERT, BioBERT, and PetBERT** across **18 ICD-11 disease categories** — outperformed TF-IDF + LinearSVC baselines on macro-F1
+- Fine-tuned **DistilBERT, BioBERT, and PetBERT** across **18 ICD-11 disease categories** outperformed TF-IDF + LinearSVC baselines on macro-F1
 - Disease NER using **CRF + transformer token classification** with IOB2 tagging
 - Live **Gradio demo on HuggingFace Spaces** with veterinary abbreviation expansion and per-label confidence scoring
 
@@ -136,13 +136,13 @@ Before Northeastern, I completed my B.Tech in AI & Data Science at Anna Universi
 
 ## 📫 Let's Connect
 
-I'm actively looking for **2026 Co-op and Internship opportunities** in Machine Learning Engineering, Data Science, and AI Engineering — especially in healthcare, fintech, and mission-driven organizations.
+I'm actively looking for **2026 Co-op and Internship opportunities** in Machine Learning Engineering, Data Science, and AI Engineering especially in healthcare, fintech, and mission-driven organizations.
 
 📧 **jeromiah.s@northeastern.edu**
 🔗 [LinkedIn](https://www.linkedin.com/in/samuel30/) · 🌐 [Portfolio](https://samuel-portfolio-livid.vercel.app/) · 💻 [GitHub](https://github.com/Samuel-Jeromiah)
 
 <div align="center">
 
-*Thanks for stopping by — let's build something useful.*
+*Thanks for stopping by | let's build something useful.*
 
 </div>
