@@ -1,122 +1,128 @@
 <div align="center">
 
-# Samuel Jeromiah Gnanam
-### AI / ML Engineer · Healthcare & Fintech Applications
+# Hi, I'm Samuel 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00D2FF&center=true&vCenter=true&width=620&lines=Data+Science+%7C+Machine+Learning+Engineer;Building+production+ML+for+Healthcare+%26+Fintech;MS+AI+%40+Northeastern+University+%E2%80%94+4.0+GPA;Open+to+2026+Internships+%26+Co-ops)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel30/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white)](https://samuel-portfolio-livid.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://samuel-portfolio-livid.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeromiah.s@northeastern.edu)
+[![Profile Views](https://komarev.com/ghpvc/?username=Samuel-Jeromiah&style=for-the-badge&color=00D2FF)](https://github.com/Samuel-Jeromiah)
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-I'm a **Data Science & AI practitioner** pursuing my **Master of Science in Artificial Intelligence** (GPA: 4.0), with a focus on turning raw, messy data into decisions that matter especially in **healthcare analytics** and **financial intelligence**.
+I'm a Master's student in Artificial Intelligence at Northeastern's Khoury College (4.0 GPA, graduating 2027), focused on building ML systems that actually ship — not just notebooks that train well. My work moves from raw data to a deployed endpoint: PyTorch model → FastAPI inference → live demo.
 
-My work lives at the intersection of rigorous statistical thinking and production-ready engineering. Whether I'm building end-to-end ML pipelines, wrangling 1.3M+ transaction records for fraud detection, or applying NLP to extract sentiment from patient reviews, I care deeply about *why* a model works not just *that* it works.
+Most of my projects sit at the intersection of **healthcare AI** and **financial intelligence**, where the data is messy and the stakes are real. I care about latency, class imbalance, and interpretability about as much as I care about leaderboards.
 
-Currently on ** Research Assistant through Northeastern Univeristy ** developing patient-matching algorithms, and actively seeking **Summer 2026 Data Science internship** opportunities. I'm a continuous learner who geeks out over model interpretability, class imbalance techniques, and making complex data stories accessible to non-technical stakeholders.
+Before Northeastern, I completed my B.Tech in AI & Data Science at Anna University and interned across data networking, IT operations, and software development in Chennai.
 
-
-
-📫 Reach me at [jeromiah.s@northeastern.edu](mailto:jeromiah.s@northeastern.edu) or connect on [LinkedIn](https://linkedin.com/in/samuel30).
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ What I Work With
 
-**Programming Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,docker,git,github,mongodb,mysql,postgresql,aws,vercel,nextjs,java,linux,vscode&perline=9)](https://skillicons.dev)
 
-**ML / AI Frameworks**
+</div>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=python&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+**Languages** Python · SQL · Java · JavaScript · C
+**ML / Deep Learning** PyTorch · TensorFlow · Scikit-learn · XGBoost · HuggingFace Transformers
+**LLMs / GenAI** LangChain · OpenAI API · Gradio · RAG · Fine-tuning
+**Data** Pandas · NumPy · DuckDB · Splink · MongoDB · MySQL · PostgreSQL
+**APIs & Deployment** FastAPI · Flask · REST · Docker · MLflow · Vercel · AWS
 
-**Data Science & Analysis**
+---
 
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-
-**Computer Vision & NLP**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Web & API Development**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ## 🚀 Featured Projects
 
-### 💳 [Credit Card Fraud Detection](https://github.com/Samuel-Jeromiah/YOUR_REPO)
-> Production-ready ML classification system for real-time fraud prevention
+### 🩺 Clinical NLP for Veterinary Disease Surveillance
+> Multi-label disease classification + named entity recognition on the **SAVSNET PetEVAL** benchmark (ACL 2025).
 
-- Processed **1.3M+ transactions** using Python, TensorFlow, and XGBoost — achieving **99.6% accuracy**
-- Built real-time inference API serving **10K+ daily predictions** with full lifecycle coverage: data exploration → deployment → monitoring
-- Applied SMOTE to handle severe class imbalance in financial transaction data
+- Fine-tuned **DistilBERT, BioBERT, and PetBERT** across **18 ICD-11 disease categories** — outperformed TF-IDF + LinearSVC baselines on macro-F1
+- Disease NER using CRF + transformer token classification with **IOB2 tagging**
+- Live **Gradio demo on HuggingFace Spaces** with veterinary abbreviation expansion and per-label confidence scoring
 
-`Python` `TensorFlow` `XGBoost` `Flask` `Scikit-Learn` `Pandas`
+`PyTorch` `HuggingFace` `Transformers` `Gradio` `spaCy`
 
----
-
-### 🏥 [Patient Sentiment Analysis — Healthcare AI](https://github.com/Samuel-Jeromiah/YOUR_REPO)
-> Generative AI application for healthcare review analysis and diagnostic workflow enhancement
-
-- Processed **10K+ patient reviews** achieving **85% accuracy** using NLP and Generative AI techniques
-- Deployed end-to-end solution with Flask REST API and MongoDB from data ingestion through model deployment
-- Focused on improving patient outcomes through AI-driven clinical intelligence
-
-`Python` `Flask` `MongoDB` `Generative AI` `NLP` `Scikit-Learn`
+🔗 [Repo](https://github.com/Samuel-Jeromiah/Clinical-NLP-Veterinary) · 🤗 [Live Demo on HuggingFace](https://huggingface.co/spaces/)
 
 ---
 
-### 🏗️ [Employee Management — Enterprise AI System](https://github.com/Samuel-Jeromiah/YOUR_REPO)
-> Enterprise-scale data infrastructure with ML-ready pipelines
+### 🫁 ChestAI — Medical Image Classification
+> Multi-label chest X-ray classification across **14 disease categories** on the NIH ChestX-ray14 dataset.
 
-- Designed and deployed data infrastructure handling **1,000+ user records** via Python, SQL, and RESTful APIs
-- Built production system with real-time API integration, testing, and monitoring
-- Demonstrated enterprise-level ML infrastructure and operational best practices
+- **ResNet-50 + custom CNN heads** on **223K+ images** → **0.87 AUC**
+- **Grad-CAM** explainability overlays for clinical interpretability
+- **FastAPI inference at sub-200ms** per X-ray, supporting real-time clinical decision workflows
 
-`Python` `SQL` `RESTful APIs` `Data Pipelines` `ETL`
+`PyTorch` `ResNet-50` `Grad-CAM` `FastAPI` `Docker`
+
+🔗 [Repo](https://github.com/Samuel-Jeromiah/ChestAI)
 
 ---
 
-### 🕶️ [Smart Blind Navigation Kit — IoT + AI](https://github.com/Samuel-Jeromiah/YOUR_REPO)
-> Award-winning real-time assistive technology system · 🏆 1st Prize, National Science Day Expo
+### 🔗 DataLink — Probabilistic Entity Resolution
+> End-to-end record linkage pipeline + interactive data quality dashboard.
 
-- Developed wearable AI-powered IoT navigation system with real-time obstacle detection and audio alerts
-- Integrated Arduino Nano, Raspberry Pi, and ultrasonic sensors for end-to-end hardware + software solution
-- Built companion GPS mobile application with real-time location monitoring and route guidance
+- **Splink + DuckDB** probabilistic matching, **Scikit-learn ensemble** classifier → **99.95% F1**
+- Resolved **4,963 matched entities** from **126,168 candidate pairs** on FEBRL benchmark
+- Full-stack: **FastAPI** backend + **Next.js** frontend on Vercel/Render with AUC-ROC and data quality dashboards
 
-`Arduino` `Raspberry Pi` `Python` `IoT` `GPS`
+`Splink` `DuckDB` `Scikit-learn` `FastAPI` `Next.js` `Vercel`
+
+🔗 [Repo](https://github.com/Samuel-Jeromiah/DataLink) · 🌐 [Live App](https://samuel-portfolio-livid.vercel.app/)
+
+---
+
+### 💳 Credit Card Fraud Detection
+> Real-time fraud classifier on a **1.3M+ transaction** dataset.
+
+- **XGBoost** classifier with **31 engineered features** capturing spending patterns and temporal anomalies
+- Handled severe class imbalance with **SMOTE** → **99.6% accuracy** on held-out data
+- **Streamlit dashboard** with explainable AI reasoning and risk visualization
+
+`Python` `XGBoost` `SMOTE` `Streamlit` `Scikit-learn`
+
+🔗 [Repo](https://github.com/Samuel-Jeromiah/Fraud-detection-System)
+
+---
+
+### 💊 Patient Sentiment Analysis — Healthcare NLP
+> Sentiment + pharmaceutical insight pipeline for patient drug reviews.
+
+- Processed **10,000+ patient reviews** with web scraping and text preprocessing
+- Classified sentiment at **85% accuracy** with automated drug description summarization
+- **Flask + MongoDB** deployment supporting healthcare decision workflows
+
+`Flask` `MongoDB` `NLTK` `Scikit-learn`
+
+🔗 [Repo](https://github.com/Samuel-Jeromiah/Patient-Sentiment-and-Adverse-Effect-Analysis)
+
+---
+
+### 🕶️ Smart Blind Navigation Kit · 🏆 1st Prize, National Science Day Expo
+> Wearable AI assistive device for visually impaired navigation.
+
+- **Arduino Nano + Raspberry Pi + ultrasonic sensors** for real-time obstacle detection
+- Companion **GPS mobile app** for location monitoring and audio route guidance
+
+`Arduino` `Raspberry Pi` `Python` `IoT`
+
+🔗 [Repo](https://github.com/Samuel-Jeromiah/Smart-Blind-Navigation)
+
+---
+
+## 🌱 Currently Working On
+
+- 📚 Deepening LangChain + RAG patterns for healthcare document retrieval
+- 🧠 Exploring vision-language models for multi-modal medical imaging
+- 💼 Open to **2026 Co-op and Internship roles** in ML Engineering, Data Science, and AI Engineering
 
 ---
 
@@ -124,20 +130,38 @@ Currently on ** Research Assistant through Northeastern Univeristy ** developing
 
 <div align="center">
 
-![Samuel's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Samuel-Jeromiah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-Jeromiah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Jeromiah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Samuel-Jeromiah&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=Samuel-Jeromiah&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Samuel-Jeromiah&theme=tokyonight&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Jeromiah&theme=tokyo-night&hide_border=true&area=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Samuel-Jeromiah&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
 ---
 
+## 🐍 Contribution Snake
+
 <div align="center">
 
-**Open to Summer 2026 Co-op & Internship roles in AI/ML Engineering and Data Science.**
+![Snake animation](https://raw.githubusercontent.com/Samuel-Jeromiah/Samuel-Jeromiah/output/github-contribution-grid-snake-dark.svg)
 
-📬 [jeromiah.s@northeastern.edu](mailto:jeromiah.s@northeastern.edu) · [LinkedIn](https://www.linkedin.com/in/samuel30/) · [Portfolio](https://samuel-portfolio-livid.vercel.app/)
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm actively looking for **2026 Co-op and Internship opportunities** in Machine Learning Engineering, Data Science, and AI Engineering — especially in healthcare, fintech, and mission-driven organizations.
+
+📧 **jeromiah.s@northeastern.edu**
+🔗 [LinkedIn](https://www.linkedin.com/in/samuel30/) · 🌐 [Portfolio](https://samuel-portfolio-livid.vercel.app/) · 💻 [GitHub](https://github.com/Samuel-Jeromiah)
+
+<div align="center">
+
+*Thanks for stopping by — let's build something useful.*
 
 </div>
