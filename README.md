@@ -15,7 +15,8 @@
 
 ## About Me
 
-I'm a Master's student in Artificial Intelligence at Northeastern's Khoury College (4.0 GPA, graduating 2027), focused on building ML systems that actually ship  not just notebooks that train well. My work moves from raw data to a deployed endpoint: PyTorch model → FastAPI inference → live demo.
+I'm a Master's student in Artificial Intelligence at Northeastern's Khoury College (4.0 GPA, graduating 2027), focused on building ML systems that actually ship  not just notebooks that train well. My work moves from raw data to a deployed endpoint: 
+PyTorch model → FastAPI inference → live demo.
 
 Most of my projects sit at the intersection of **healthcare AI** and **financial intelligence**, where the data is messy and the stakes are real. I care about latency, class imbalance, and interpretability about as much as I care about leaderboards.
 
